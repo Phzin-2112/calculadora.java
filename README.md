@@ -1,1 +1,1 @@
-# Calculadora utilizando a linguagem JAVA
+# Calculadora simples utilizando JAVA
